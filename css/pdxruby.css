@@ -62,3 +62,10 @@ body {
   color: #000000;
   text-align: center;
 }
+
+.reveal #venue-details {
+  font-size: 1.5em;
+}
+.reveal #venue-details p {
+  margin-top: 30px;
+}
