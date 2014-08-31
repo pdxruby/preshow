@@ -57,15 +57,19 @@ body {
   text-align: right;
 }
 
-.reveal #sponsor,
-.reveal #sponsor h2 {
-  color: #000000;
-  text-align: center;
-}
-
 .reveal #venue-details {
   font-size: 1.5em;
 }
 .reveal #venue-details p {
   margin-top: 30px;
+}
+
+.reveal div#thanks {
+  margin-bottom: 70px;
+}
+.reveal div#thanks h2 {
+  margin-top: -40px;
+}
+.reveal div#thanks img {
+  margin: 0 0 -40px 0;
 }
