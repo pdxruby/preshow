@@ -26,6 +26,9 @@ body {
 .reveal li {
   padding: .25em 0;
 }
+.reveal li.short {
+  padding: 0;
+}
 
 .reveal a:not(.image):hover {
   color: #eee8d5;
@@ -75,4 +78,8 @@ body {
 }
 .reveal div#thanks img {
   margin: 0 0 -40px 0;
+}
+
+.reveal .smaller {
+    font-size: .8em;
 }
