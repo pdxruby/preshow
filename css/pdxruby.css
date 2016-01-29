@@ -70,15 +70,18 @@ body {
   margin-top: 30px;
 }
 
+/* [@geeksam sucks at css]
 .reveal div#thanks {
   margin-bottom: 70px;
 }
-.reveal div#thanks h2 {
+.reveal div#thanks h4 {
   margin-top: -40px;
+  vertical-align: center;
 }
 .reveal div#thanks img {
   margin: 0 0 -40px 0;
 }
+*/
 
 .reveal .smaller {
     font-size: .8em;
