@@ -1,9 +1,10 @@
 body {
-  background: #92261E;
-  background-color: #92261E; }
+  background-color: #92261E;
+}
 
 .reveal {
   color: #fff;
+  background-color: #92261E;
 }
 
 .reveal h1,
