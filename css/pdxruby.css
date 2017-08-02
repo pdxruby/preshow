@@ -118,8 +118,8 @@ a#blackcats {
 }
 
 @keyframes across-slide {
-  from { left: -500px; top: 200px; }
-  to { left: 1000px; top: 200px; }
+  from { left: 1000px; top: 200px; }
+  to { left: -500px; top: 200px; }
 }
 @keyframes across2-slide {
   from { left: -500px; top: 100px; }
